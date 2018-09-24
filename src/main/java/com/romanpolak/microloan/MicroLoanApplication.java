@@ -1,12 +1,12 @@
-package com.romanpolak.microcredit;
+package com.romanpolak.microloan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MicroCreditApplication {
+public class MicroLoanApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MicroCreditApplication.class, args);
+        SpringApplication.run(MicroLoanApplication.class, args);
     }
 }

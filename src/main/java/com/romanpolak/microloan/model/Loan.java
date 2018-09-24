@@ -1,4 +1,4 @@
-package com.romanpolak.microcredit.model;
+package com.romanpolak.microloan.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

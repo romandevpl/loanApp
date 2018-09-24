@@ -1,4 +1,4 @@
-package com.romanpolak.microcredit;
+package com.romanpolak.microloan;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class MicroCreditApplicationTests {
+public class MicroLoanApplicationTests {
 
     @Test
     public void contextLoads() {
